@@ -1,0 +1,165 @@
+.section1{
+	width: 960px;
+	margin: auto;
+	position: relative;
+}
+
+.top_img{
+	width: 960px;
+	height: 450px;
+	margin: auto;
+	display: block;
+}
+
+
+.beer{
+	font-size:90px;
+	color:#fff;
+	position: absolute;
+	left: 100px;
+	top:180px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.title1{
+	font-size: 50px;
+	color: #356686;
+	margin: 50px 0;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
+
+.title2{
+	font-size: 40px;
+	color: #356686;
+	margin: 50px 0;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
+
+.title3{
+	font-size: 40px;
+	color: #356686;
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+
+.first_letter_color{
+	font-size: 30px;
+	color:#b86a20
+}
+
+
+.txt{
+	font-size: 18px;
+	line-height: 30px;
+	font-family: 'Bitter', serif;
+}
+
+.section{
+	width: 960px;
+	margin: 20px auto;
+}
+
+.section_flex{
+	display: flex;
+	justify-content: space-between;
+}
+
+.article1{
+	width: 55%;
+	margin-right: 30px;
+}
+
+.section2_img{
+	width: 440px;
+	height: 330px;
+	display: block;
+}
+
+
+.section3_left{
+	margin-right: 50px;
+}
+
+.section3_txt1{
+	margin-bottom: 30px;
+}
+
+
+.section4_txt1,.section4_txt2,.section4_txt3{
+	margin-bottom: 30px;
+}
+
+.section5{
+	display: flex;
+}
+
+.section5 img{
+	width: 45%;
+	height: 320px;
+}
+
+.section6_txt1,.section6_txt2{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.section7{
+	height: 500px;
+	position: relative;
+	background: url(../images/drinking-glass-on-top-of-table-669216.jpg) no-repeat;
+	background-size: cover;
+}
+
+.section7_content{
+	position: absolute;
+	width: 340px;
+	right: 10%;
+	top: 10%;
+}
+
+
+.first_letter{
+	font-size: 35px;
+	font-weight: bold;
+}
+
+
+.section7_txt{
+	font-family: 'Bitter', serif;
+}
+.footer{
+	width: 960px;
+	height: 200px;
+	margin: auto;
+	background-color: #debca0;
+	padding-top: 30px;
+	box-sizing: border-box;
+}
+.footer_right{
+	margin-left: 500px;
+}
+.name{
+	font-size: 20px;
+	color: #fff;
+	margin-bottom: 50px;
+	text-align: right;
+	margin-right: 30px;
+
+
+}
+.footer_right .icon{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.footer ul{
+	text-align: right;
+}
